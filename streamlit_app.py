@@ -20,7 +20,7 @@ load_dotenv(override=True)
 GEMINI_API_KEI = os.getenv('GEMINI_API_KEI', None)
 
 placeholderstr = "Please input your command"
-user_name = "Gild"
+user_name = "Vivian"
 user_image = "https://www.w3schools.com/howto/img_avatar.png"
 
 seed = 42
